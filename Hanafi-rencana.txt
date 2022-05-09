@@ -5,3 +5,4 @@ rencana belajar saya
  -DockerFile
 -Kubernetes
 -Phyton
+-Golang
