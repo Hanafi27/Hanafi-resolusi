@@ -8,3 +8,7 @@ rencana belajar saya
 -Golang
 -Ruby
 -Computer Sienty
+-Javascript
+ -React Js
+ -Vue Js
+ -Jequery
