@@ -6,3 +6,5 @@ rencana belajar saya
 -Kubernetes
 -Phyton
 -Golang
+-Ruby
+-Computer Sienty
